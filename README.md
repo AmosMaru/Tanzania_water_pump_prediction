@@ -6,7 +6,7 @@ This project aims to predict the functional status of water pumps in Tanzania, s
 
 ## Data
 
-The data used in this project is the "Tanzania Water Pumps Status" dataset, which can be found on Kaggle (https://www.kaggle.com/taarifa/water-pumps-and-management-in-tanzania). The dataset contains information about water pumps in Tanzania, including their geographical location, type, and status.
+The data for this project is sourced from the "Tanzania Water Pumps Status" dataset available on DrivenData (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/). The dataset contains information about water pumps in Tanzania, including geographical location, type, and functional status.
 
 ## Requirements
 
