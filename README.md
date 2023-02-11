@@ -19,6 +19,7 @@ In order to run this project, you will need the following software and packages 
 5. Seaborn
 6. Scikit-learn
 7. Procedure
+
    The procedure for this project is as follows:
 
 - Load and clean the data
